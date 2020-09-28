@@ -1,2 +1,2 @@
-# PoliticalScienceAndGames
-Drafts and finals of workingpapers about political science and games
+# Political science and games
+Drafts and finals of workingpapers about political science and game theory
