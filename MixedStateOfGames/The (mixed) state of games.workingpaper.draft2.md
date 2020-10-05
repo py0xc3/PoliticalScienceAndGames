@@ -8,17 +8,17 @@ Generally, the game is the environment for its actors. An actor's condition (sta
 ## 2. Mixing static games
 The Median voter theorem illustrates a static game with a pure state (Downs, 1957, p. 143). Players are mapped into a generic left-right continuum (Figure 1).
 
-<p align="center"><img height="250px" src="MixedStateOfGames/figures/figure1.PNG"
+<p align="center"><img height="250px" src="figures/figure1.PNG"
  alt="Figure 1" title="Figure 1" align="center" /></p>
 <p align="center">Figure 1: Median voter continuum with one median</p>
 
 Nevertheless, Downs (1957, p. 143) also describes a continuum with two medians (Figure 2). A second median indicates a mixed state of the game, with one of the medians being the point of intersection with a second game and its continuum: both games have their own respective median, and the common point of intersection (Figure 3). Nevertheless, like figure 1, figure 2 observes only one game and still, it does not equal the game of figure 1. Consequently, the game of figure 2 is affected by a mixed state even if only one continuum is observed. The mixed state changes the conditions of both games while changes in one game result in changes in the other, too.
 
-<p align="center"><img height="255px" src="MixedStateOfGames/figures/figure2.PNG"
+<p align="center"><img height="255px" src="figures/figure2.PNG"
  alt="Figure 2" title="Figure 2" align="center" /></p>
 <p align="center">Figure 2: Median voter continuum with two medians</p>  
 
-<p align="center"><img height="442px" src="MixedStateOfGames/figures/figure3.PNG"
+<p align="center"><img height="442px" src="figures/figure3.PNG"
  alt="Figure 3" title="Figure 3" align="center" /></p>
 <p align="center">Figure 3: Different median voter continuums of two games in a mixed state at the moment of observation. To illustrate, both continuums were not mapped to left and right.</p>
 
@@ -28,7 +28,7 @@ Players expect opponents to act against the same state. If an opponent behaves d
 In static games, players exist only in the moment of observation. Referring to the prisoner dilemma, if player A is the father of player B, the paternal conflict influences the conflict about imprisonment.
 On one hand, a father wants to protect his child. On the other hand, player A does not want to get imprisoned. Therefore, the game is in a mixed state from the perspective of player A (Figure 4). Player B can be in a comparable state. Still, if player B is playing a pure state game with his focus remaining on not getting imprisoned, there will be two different observations of a game from two different perspectives: one with a pure state, one with a mixed state. 
 
-<p align="center"><img height="453px" src="MixedStateOfGames/figures/figure4.PNG"
+<p align="center"><img height="453px" src="figures/figure4.PNG"
  alt="Figure 4" title="Figure 4" align="center" /></p>
 <p align="center">Figure 4: The mixed state of player A with the paternal game being dominant in the mixture.</p>
 
@@ -46,7 +46,7 @@ Finally, the sum of all observations forms a (wave) function (Born, 1927), which
 
 Even in static games, there are dynamics between games that play in parallel if these games are not in a pure state. If sequences are added, further dynamics arise from different mixtures of games that are solved into, or succeeding each other. If player A is prosecuted for 10 years while player B is released, the paternal and the imprisonment games are solved. From player A’s perspective, their mixture is solved into new conflicts about how to manage the time in prison. The new conflicts get a mixture either, affected by the games played by other prisoners (Figure 5). Games after the time of imprisonment are then to be affected by the outcome of the games played while in prison. Still, the games remain successive but static observations: they succeed, and are solved into, each other. Each observation is a snapshot.
 
-<p align="center"><img height="149px" src="MixedStateOfGames/figures/figure5.PNG"
+<p align="center"><img height="149px" src="figures/figure5.PNG"
  alt="Figure 5" title="Figure 5" align="center" /></p>
 <p align="center">Figure 5: Two observations from player A of succeeding mixed states of games, assuming player A to get imprisoned after the first observation.</p>
 
@@ -64,11 +64,11 @@ So, from player B’s starting point, the observation assumes a game between two
 
 Nevertheless, the uncertainty principle (Busch et al., 2007) indicates each observation of a player to manipulate behavior and vice versa. Therefore, each observation manipulates the (wave) function with its perfect information (figure 6 and 7): if player A observes and indicates to not cooperate with the police, the mixed state of the police changes due to the transferred information, too. Therefore, the police now focus on interrogating player B, who still assumes to play against the other player, changing the mixed state of player B. Still, the observed player A knows about the possibility of being observed and even if A cannot do much about it, A’s information changes as well.
 
-<p align="center"><img height="229px" src="MixedStateOfGames/figures/figure6.PNG"
+<p align="center"><img height="229px" src="figures/figure6.PNG"
  alt="Figure 6" title="Figure 6" align="center" /></p>
 <p align="center">Figure 6: A function incorporating perfect information, as it appears at observation 1. The information available to the observation depends on its starting point (SP) and is further limited by its destination (Dest).</p>
 
-<p align="center"><img height="229px" src="MixedStateOfGames/figures/figure7.PNG"
+<p align="center"><img height="229px" src="figures/figure7.PNG"
  alt="Figure 7" title="Figure 7" align="center" /></p>
 <p align="center">Figure 7: A function incorporating perfect information, as it appears at observation 2. Observation 1 manipulated the distribution of information and therefore, manipulated the consequent function at observation 2: observation 1 transferred information from its destination to its starting point, changing the destination of the consequent observation.</p>
 
