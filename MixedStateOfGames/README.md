@@ -7,7 +7,7 @@ Mapping probabilistic scenarios and actors to games is generally a qualitative m
 There is a supplement in [issue #1](https://github.com/py0xc3/PoliticalScienceAndGames/issues/1): "The appearance of players is construed". It solves an issue that was not considered in the original essay.
   
 ## Files
-You may use the [editable file](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/MixedStateOfGames/The%20(mixed)%20state%20of%20games.workingpaper.draft2.md) or the [pdf](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/MixedStateOfGames/The%20(mixed)%20state%20of%20games.workingpaper.draft2.pdf).  
+You may use the [editable file](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/MixedStateOfGames/The%20(mixed)%20state%20of%20games.workingpaper.draft2.md) or the [pdf](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/MixedStateOfGames/The%20(mixed)%20state%20of%20games.workingpaper.draft2.pdf) (both do not yet consider the supplement of [issue #1](https://github.com/py0xc3/PoliticalScienceAndGames/issues/1)).  
   
 ## License
 This repository and its content is published under the [Creative Commons Attribution Share Alike 4.0 International license](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/LICENSE.md).
