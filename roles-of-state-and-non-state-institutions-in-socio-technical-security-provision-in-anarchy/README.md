@@ -8,3 +8,6 @@ implementing organizations, not vice versa.
 This repository does only contain the abstract, the final section before the conclusion, and the conclusion of the paper. This means, it contains only page 1, 4, and 60 to 66 of the originally 76 pages.  
 
 These pages contain everything that is still relevant. For more, see the follow-up paper [Linux is Law](https://raw.githubusercontent.com/py0xc3/PoliticalScienceAndGames/master/linux-is-law/README.md)
+
+## License
+This repository and its content is published under the [Creative Commons Attribution Share Alike 4.0 International license](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/LICENSE.md).
