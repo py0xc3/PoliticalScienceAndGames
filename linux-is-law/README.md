@@ -22,5 +22,10 @@ Another difference is that security is no dedicated consideration: it is only ab
 
 In the end, it can be argued that there are two overlapping but strongly different systems (so much differently constituted that they cannot be clearly compared with or distinguished from each other) that provide security foundations and provisions in and on top of anarchy. And it cannot be excluded that societies and organizations that suffer from security issues do so because they tailor to the wrong system "in" (or "of") anarchy, and thus adopting the wrong institutions, when they are exposed to the socio-technical environment of today (and its socio-technical anarchy). However, there are many open questions that future research has to answer, and vulnerabilities of the Linux system cannot be excluded. Furthermore, this project uncovered only small amounts of this architecture.
 
+## Important note
+This paper is a **follow-up** of: [What are the respective roles of state and non-state institutions in socio-technical security provision in anarchy? Analysis of today's security provisions to identify security-relevant developments in today's socio-technical societies, where isolated analysis of physical and cyber security is not indicative.](https://github.com/py0xc3/PoliticalScienceAndGames/tree/master/roles-of-state-and-non-state-institutions-in-socio-technical-security-provision-in-anarchy).
+
+While **Linux is Law** is **partly** derived from the earlier paper and **partly** uses some of its findings/results, it largely obsoletes its predecessor. For deeper understanding of this type of research, it might be worth to review the *abstract* and the *conclusion* of the predecessor (both available [here](https://github.com/py0xc3/PoliticalScienceAndGames/tree/master/roles-of-state-and-non-state-institutions-in-socio-technical-security-provision-in-anarchy)), but the other contents of the predecessor are no longer relevant.
+
 ## License
 This repository and its content is published under the [Creative Commons Attribution Share Alike 4.0 International license](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/LICENSE.md).
