@@ -1,5 +1,5 @@
 # Political science and games  
-Drafts and finals of workingpapers about political science and game theory  
+Drafts and finals of interdisciplinary/transdisciplinary workingpapers that have no dedicated computer-science/cryptography focus in their research methods/goals (although computer-science/cryptography might both on themselves become an object of research in these papers).  
   
 ## General  
 Papers are separated by folders, each containing an abstract, an editable file and a pdf. The editable files enable edit/blame/compare/merge/commit within git.
