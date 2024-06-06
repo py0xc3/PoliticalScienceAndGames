@@ -9,5 +9,8 @@ This repository does only contain the abstract, the final section before the con
 
 These pages contain everything that is still relevant. For more, see the follow-up paper [Linux is Law](https://github.com/py0xc3/PoliticalScienceAndGames/tree/master/linux-is-law)
 
+## Correction
+I just saw that on page 60, I refer to Linus Torvald's GitHub repository as the mainline repository in terms of the place where the community has its consent to pull from and push to mainline kernel commits. I do not know how I ended up with this, but this is wrong: it is not his github repo but his kernel.org repo. This is formally and informally a fact and can be verified by checking the Kernel Docs. What is documented there equals to what the community practices.
+
 ## License
 This repository and its content is published under the [Creative Commons Attribution Share Alike 4.0 International license](https://github.com/py0xc3/PoliticalScienceAndGames/blob/master/LICENSE.md).
